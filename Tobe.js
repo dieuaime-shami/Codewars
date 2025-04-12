@@ -17,4 +17,4 @@ function expect(val){
   };
 }
 let outPut=()=>expect(6);
-console.log(outPut);
+console.log(outPut());
